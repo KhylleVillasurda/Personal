@@ -23,7 +23,7 @@
 4. if its zip, extract the file, or if its folder navigate through the folder to find the videoTest6.sln
 5.If you found then open the program. Now its done!
 
-## ![Usage](https://img.shields.io/badge/Usage-FFD700?style=flat)
+## ![Usage](https://img.shields.io/badge/Usage-07DA63?style=flat)
 
 ### ⚡ Core Functions
 | Element | Action | Icon |
