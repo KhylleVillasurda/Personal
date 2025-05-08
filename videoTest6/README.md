@@ -3,7 +3,7 @@
 
 *A First-Come-First-Serve (FCFS) scheduling simulator with built-in video playback using LibVLC (NuGet).*  
 
-![Demo Preview]([https://via.placeholder.com/800x400?text=FCFS+VLC+Player+Demo](https://github.com/KhylleVillasurda/Personal/blob/main/videoTest6/previewImage.jpg))   
+![Demo Preview](https://github.com/KhylleVillasurda/Personal/blob/main/videoTest6/previewImage.jpg?raw=true)  
 
 ## 🔥 Key Features  
 - **FCFS Algorithm Visualization** - Simulate process scheduling with clear step-by-step execution  
