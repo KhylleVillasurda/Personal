@@ -23,7 +23,7 @@
 4. if its zip, extract the file, or if its folder navigate through the folder to find the videoTest6.sln
 5.If you found then open the program. Now its done!
 
-## ![Usage](https://img.shields.io/badge/USAGE-#FFD700?style={flat/for-the-badge})
+## ![Usage](https://img.shields.io/badge/Usage-#FFD700?style=flat)
 
 ### ⚡ Core Functions
 | Element | Action | Icon |
@@ -41,6 +41,8 @@
 ### 📋 Step-by-Step
 1. **Add Processes**  
    ```C#
-   # Example: Add 3 processes
-   Process Name: "VideoRender", Burst Time: 5
-   Process Name: "AudioMix", Burst Time: 3
+   Add Process name, arrival time then lastly burst time for the calculations.
+   # Example input
+   Process Name: "VideoRender", Arrival Time: 5, Burst Time: 4
+   Process Name: "AudioMix", Arrival Time: 3, Burst Time: 10
+   Then you can click Calculate!
