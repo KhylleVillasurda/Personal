@@ -1,0 +1,10 @@
+E:\School\C#\Database Connecting\connectDB\connectDB\bin\Debug\connectDB.exe.config
+E:\School\C#\Database Connecting\connectDB\connectDB\bin\Debug\connectDB.exe
+E:\School\C#\Database Connecting\connectDB\connectDB\bin\Debug\connectDB.pdb
+E:\School\C#\Database Connecting\connectDB\connectDB\obj\Debug\connectDB.csproj.AssemblyReference.cache
+E:\School\C#\Database Connecting\connectDB\connectDB\obj\Debug\connectDB.Form1.resources
+E:\School\C#\Database Connecting\connectDB\connectDB\obj\Debug\connectDB.Properties.Resources.resources
+E:\School\C#\Database Connecting\connectDB\connectDB\obj\Debug\connectDB.csproj.GenerateResource.cache
+E:\School\C#\Database Connecting\connectDB\connectDB\obj\Debug\connectDB.csproj.CoreCompileInputs.cache
+E:\School\C#\Database Connecting\connectDB\connectDB\obj\Debug\connectDB.exe
+E:\School\C#\Database Connecting\connectDB\connectDB\obj\Debug\connectDB.pdb
