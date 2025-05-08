@@ -32,7 +32,7 @@
     Clone the repository:
     bash
 
-    git clone https://github.com/your-username/school-projects.git
+    git clone [https://github.com/KhylleVillasurda/Personal].git
 
     My Projects are all here!
 
@@ -44,3 +44,5 @@ This repository is for educational purposes. Feel free to explore and learn from
 
 🔗 Connect with me:
 khyllegb@gmail.com
+
+Owner: Khylle P. Villasurda
